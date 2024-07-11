@@ -1,0 +1,15 @@
+.video {
+    width: 100%;
+    height:auto;
+}
+
+.contenedor-video {
+    padding: 4%;
+    position: relative;
+    
+}
+
+.delete {
+    position: absolute;
+    right: 9px;
+}
